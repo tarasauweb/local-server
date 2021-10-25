@@ -1,0 +1,10 @@
+{
+    "profile":{
+        "name":"Artur Tarasau",
+        "age":"30",
+        "city":"Minsk",
+        "background":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlml0wrdnIM5Ra0MoPNm_adA0HycjXvjgYlA&usqp=CAU",
+        "ava":"https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNvdmVyJTIwcGhvdG98ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+        "aducation":"BSUIR"
+    }
+}

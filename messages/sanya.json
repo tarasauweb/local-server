@@ -1,0 +1,8 @@
+{
+    "id":"1",
+    "name":"Sanya",
+    "messages":{
+        "Sanya":"Hello ,how are you?",
+        "Artur":"hi , I'm ok!"
+    }
+}
